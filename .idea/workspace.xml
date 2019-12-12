@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecd35550-73b8-4d23-a933-1c6ebcff2894" name="Default Changelist" comment="" />
+    <list default="true" id="ecd35550-73b8-4d23-a933-1c6ebcff2894" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CharPicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CharPicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Character.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Character.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UsOWnnWA6PNkW2d9A5x9oy2RyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -41,11 +60,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576141871321</updated>
-      <workItem from="1576141877897" duration="562000" />
+      <workItem from="1576141877897" duration="5756000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="23" width="2340" height="1199" key="CommitChangelistDialog2" timestamp="1576152389210">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state x="220" y="23" width="2340" height="1199" key="CommitChangelistDialog2/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576152389210" />
+    <state width="2397" height="360" key="GridCell.Tab.0.bottom" timestamp="1576144034729">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="2397" height="360" key="GridCell.Tab.0.bottom/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576144034729" />
+    <state width="2397" height="360" key="GridCell.Tab.0.center" timestamp="1576144034728">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="2397" height="360" key="GridCell.Tab.0.center/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576144034728" />
+    <state width="2397" height="360" key="GridCell.Tab.0.left" timestamp="1576144034727">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="2397" height="360" key="GridCell.Tab.0.left/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576144034727" />
+    <state width="2397" height="360" key="GridCell.Tab.0.right" timestamp="1576144034729">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="2397" height="360" key="GridCell.Tab.0.right/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576144034729" />
+    <state x="736" y="339" width="958" height="718" key="find.popup" timestamp="1576153833730">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state x="736" y="339" width="958" height="718" key="find.popup/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576153833730" />
   </component>
 </project>
