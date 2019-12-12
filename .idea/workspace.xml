@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd35550-73b8-4d23-a933-1c6ebcff2894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CharPicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CharPicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Character.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Character.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,18 +56,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576141871321</updated>
-      <workItem from="1576141877897" duration="5756000" />
+      <workItem from="1576141877897" duration="5784000" />
     </task>
+    <task id="LOCAL-00001" summary="finish tutorial">
+      <created>1576154710830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576154710830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish tutorial" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="23" width="2340" height="1199" key="CommitChangelistDialog2" timestamp="1576152389210">
+    <state x="220" y="23" width="2340" height="1199" key="CommitChangelistDialog2" timestamp="1576154709750">
       <screen x="0" y="23" width="2560" height="1351" />
     </state>
-    <state x="220" y="23" width="2340" height="1199" key="CommitChangelistDialog2/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576152389210" />
+    <state x="220" y="23" width="2340" height="1199" key="CommitChangelistDialog2/0.23.2560.1351/-1440.563.1440.877@0.23.2560.1351" timestamp="1576154709750" />
     <state width="2397" height="360" key="GridCell.Tab.0.bottom" timestamp="1576144034729">
       <screen x="0" y="23" width="2560" height="1351" />
     </state>
